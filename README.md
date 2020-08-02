@@ -1,8 +1,11 @@
-# pomidor
+<div align="center">
+<p>
+    <img src="https://i.imgur.com/CbVs2c9.png" height=100 width=100>
+</p>
+<h1>Pomidor: a pomodoro study app for MacOS</h1>
+</div>
 
-Pomodoro study app for MacOS.
-
-## to-do
+### To-Do
 
 - [ ] Timer
 - [ ] History
